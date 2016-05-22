@@ -46,6 +46,7 @@
 - [《UNIX环境高级编程》](http://download.csdn.net/download/fengfengdiandia/4372834)（美）理查德·史蒂文斯、（美）拉戈，人民邮电出版社，2006
 
 ## C
+- [《C语言程序设计》](http://www.cr173.com/soft/27321.html) 谭浩强
 - [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社，2015
 
 ## 算法
