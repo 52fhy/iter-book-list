@@ -19,13 +19,13 @@
 -  《HTML 5与CSS 3权威指南》陆凌牛，机械工业出版社，2011
 -  [《JavaScript权威指南(第6版)》](http://www.jb51.net/books/73981.html)
 -  《锋利的jQuery》人民邮电出版，2009
--  《编写可维护的JavaScript》[美]Nicholas C. Zakas
+-  **《编写可维护的JavaScript》** [美]Nicholas C. Zakas
 -  [《Javascript DOM 艺术编程》](http://pan.baidu.com/s/1gdAIRPx)
 -  [《AngularJS权威指南》](http://pan.baidu.com/s/1eQjUwWa)
 
 
 ## 数据库/缓存
-- [《高性能MySQL(第3版)》](http://www.linuxidc.com/Linux/2014-10/108464.htm)王小东，电子工业出版社，2010
+- **[《高性能MySQL(第3版)》](http://www.linuxidc.com/Linux/2014-10/108464.htm)** 王小东，电子工业出版社，2010
 - [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
 - [《Memcached全面剖析》](http://pan.baidu.com/s/1eQktDr8)
 
