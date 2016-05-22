@@ -75,8 +75,8 @@
 ## 推荐的在线电子书
 - [PHP之道](http://wulijun.github.io/php-the-right-way/)
 - [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
-- [JavaScript 标准参考教程（alpha）
-](http://javascript.ruanyifeng.com/)
+- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
+- [文档与源码编写风格](https://github.com/fex-team/styleguide)
 
 ## 推荐的博客
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
