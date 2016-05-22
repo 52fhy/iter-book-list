@@ -11,7 +11,7 @@
 
 ## PHP
 - **[《细说PHP(第2版)》](http://www.jb51.net/books/105314.html)** 高洛峰，电子工业出版社，2012
-- **《PHP核心技术与最佳实践》** 列旭松、陈文，机械工业出版社，2012
+- **[《PHP核心技术与最佳实践》](http://www.jb51.net/books/328937.html)** 列旭松、陈文，机械工业出版社，2012
 - [《PHP精粹编写高效PHP代码》](http://www.jb51.net/books/218921.html)Peter MacIntyre，电子工业出版社，2012
 - [《深入理解PHP高级技巧、面向对象与核心技术(第3版)》](http://download.csdn.net/download/zhiqueen/6230645)(美)Larry Ullman
 - [《PHP高级程序设计：模式、框架与测试》](http://download.csdn.net/download/xr1064/7432811)
