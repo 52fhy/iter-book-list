@@ -32,6 +32,7 @@
 
 ## 设计模式
 - [《设计模式：可复用面向对象软件基础》](http://pan.baidu.com/s/1eQ8Fiwi)
+- [《设计模式之禅(第2版) 》](http://download.csdn.net/download/yjwffgip456/8422449) 秦小波，机械工业出版社，2010
 
 ## TCP/IP
 - **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
