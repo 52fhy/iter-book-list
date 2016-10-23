@@ -64,6 +64,12 @@
 ## NodeJS
 - [《Node即学即用》](http://pan.baidu.com/s/1dDppfWH)
 
+## Docker
+- 《Docker技术入门与实战》杨保华，戴王剑，曹亚仑，机械工业出版社  
+- 《第一本Docker书(The docker book)》（澳）特恩布尔，人民邮电出版社  
+- 《Kubernetes权威指南：从Docker到Kubernetes实践全接触》龚正，吴治辉，王伟 等  
+- 《Docker容器与容器云》人民邮电出版社  
+
 ## 推荐的在线教程
 - [w3school 在线教程](http://www.w3school.com.cn/)
 - [菜鸟教程](http://www.runoob.com/)
