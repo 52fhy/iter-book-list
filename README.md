@@ -74,6 +74,8 @@
 - [w3school 在线教程](http://www.w3school.com.cn/)
 - [菜鸟教程](http://www.runoob.com/)
 - [JavaScript教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
+- [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
 - [Python教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
