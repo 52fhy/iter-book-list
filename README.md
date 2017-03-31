@@ -81,8 +81,10 @@
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
 - [Python教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)  
+- [PHP 之道 | PHP The Right Way 中文版](http://laravel-china.github.io/php-the-right-way/)  
 - [shell-book](https://github.com/52fhy/shell-book)  
 - [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog)  
+- [ruanyf/jstraining: 全栈工程师培训材料](https://github.com/ruanyf/jstraining)
 
 
 ## 推荐的在线电子书
