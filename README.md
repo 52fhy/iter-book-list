@@ -60,12 +60,14 @@
 - [Python教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 ## Golang
-- [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)   
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md)  
+- [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)    
 
 ## Shell
 - [shell-book](https://github.com/52fhy/shell-book)  
 
 ## Java
+- 《Java从入门到精通》高宏静等，化学工业出版社
 
 ## Android
 - 《第一行代码——Android》
@@ -76,6 +78,9 @@
 - 《第一本Docker书(The docker book)》（澳）特恩布尔，人民邮电出版社  
 - 《Kubernetes权威指南：从Docker到Kubernetes实践全接触》龚正，吴治辉，王伟 等  
 - 《Docker容器与容器云》人民邮电出版社 
+
+## OpenResty
+- [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices)  
 
 ## 综合在线教程
 - [w3school 在线教程](http://www.w3school.com.cn/)
