@@ -101,7 +101,7 @@
 
 - [《UNIX环境高级编程》](http://download.csdn.net/download/fengfengdiandia/4372834)（美）理查德·史蒂文斯、（美）拉戈，人民邮电出版社，2006
 - 《Linux程序设计（第4版）》 [英] 马修（Matthew N.） 著；陈健，宋健建 译，人民邮电出版社
-- 《Linux C编程一站式学习》 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
+- [《Linux C编程一站式学习》](http://ishare.iask.sina.com.cn/f/37184447.html) 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
 - 《Linux高性能服务器编程》
 
 ## 服务器运维
