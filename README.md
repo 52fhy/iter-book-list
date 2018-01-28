@@ -102,6 +102,8 @@
 - [《Linux鸟哥私房菜(第3版)》](http://www.ifunmac.com/2013/05/linux-basic-niao3/)
 - [《LINUX与UNIX Shell编程指南》](http://www.jb51.net/books/58118.html)机械工业出版社，2000》
 - [shell-book](https://github.com/52fhy/shell-book)  
+- [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
 
 ## Unix/Linux应用编程
 
@@ -139,6 +141,7 @@
 - [《设计模式：可复用面向对象软件基础》](http://pan.baidu.com/s/1eQ8Fiwi)
 - [《设计模式之禅(第2版) 》](http://download.csdn.net/download/yjwffgip456/8422449) 秦小波，机械工业出版社，2010
 
+
 ## 算法
 
 - **《剑指Offer：名企面试官精讲典型编程题（第2版）》** 何海涛 著，电子工业出版社
@@ -160,15 +163,25 @@
 - 《用户体验多面手》[美] Leah Buley 著；新浪微博用户研究与体验设计中心，七印部落 译，华中科技大学出版社
 - 《Don't Make Me Think》[美] 克鲁格（Steve Krug） 著；蒋芳 译，机械工业出版社
 
+## 代码规范
+
+- [文档与源码编写风格](https://github.com/fex-team/styleguide)
+
+## 人文社科
+
+- 《人类简史：从动物到上帝》，[以色列]尤瓦尔·赫拉利 著，中信出版社
+- 《未来简史》，[以色列]尤瓦尔·赫拉利 著；林俊宏 译，中信出版社
+- 《人性的弱点》，[美] 戴尔·卡耐基 著；陶曚 译
+- 《一课经济学》，亨利·赫茲利特（Henry Hazlitt） 著；罗耀宗 译
 
 ## 其它
-- [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-- [文档与源码编写风格](https://github.com/fex-team/styleguide)
-- [《大象-Thinking in UML》](http://pan.baidu.com/s/1o6mLCb4)
-- [《编程珠玑》](http://pan.baidu.com/share/link?shareid=2216829899&uk=1646533095)
+
+- 《肠子的小心思》，[德] 朱莉娅·恩德斯 著；钱为 译
+
 
 ## 推荐的博客
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+
 
 
 
