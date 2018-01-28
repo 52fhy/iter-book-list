@@ -77,10 +77,14 @@
 
 - [Go Web编程：build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md) 谢孟军  著 
 - [Go 入门指南：the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)  
+- [Go语言圣经](https://www.gitbook.com/book/yar999/gopl-zh/details)
+- [《Go语言实战》](http://www.uzzf.com/soft/344044.html) [美] 威廉·肯尼迪（William，Kennedy）等著；李兆海 译，人民邮电出版社  
+
+
 - [Go 学习笔记 第四版](https://github.com/qyuhen/book) 雨痕
 - 《Go Web编程》 [新加坡] 郑兆雄（Sau，Sheong，Chang） 著；黄健宏 译
 - [《Go语言编程》](http://vdisk.weibo.com/s/fBR30EqBY7a)许式伟 等 著，人民邮电出版社
-- [《Go语言实战》](http://www.uzzf.com/soft/344044.html) [美] 威廉·肯尼迪（William，Kennedy）等著；李兆海 译，人民邮电出版社
+
 
 ## Java
 
@@ -89,7 +93,7 @@
 
 ## Android
 
-- 《第一行代码——Android》
+- 《第一行代码 Android 第2版》郭霖 著，人民邮电出版社
 - [2015年最新Android基础入门教程](http://www.runoob.com/w3cnote/android-tutorial-contents.html)
 
 ## Unix/Linux基础
