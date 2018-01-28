@@ -9,10 +9,12 @@
 ---
 
 ## 综合在线教程
+
 - [w3school 在线教程](http://www.w3school.com.cn/)
 - [菜鸟教程](http://www.runoob.com/)
 
 ## PHP
+
 - **[《细说PHP(第2版)》](http://www.jb51.net/books/105314.html)** 高洛峰，电子工业出版社，2012
 - **[《PHP核心技术与最佳实践》](http://www.jb51.net/books/328937.html)** 列旭松、陈文，机械工业出版社，2012
 - [《PHP精粹编写高效PHP代码》](http://www.jb51.net/books/218921.html)Peter MacIntyre，电子工业出版社，2012
@@ -24,7 +26,7 @@
 - [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
 
 
-## JavaScript
+## WEB前端
 
 - **[JavaScript教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)**
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
@@ -34,12 +36,13 @@
 
 -  [《JavaScript权威指南(第6版)》](http://www.jb51.net/books/73981.html)
 -  《锋利的jQuery》人民邮电出版，2009
--  **《编写可维护的JavaScript》** [美]Nicholas C. Zakas
+-  《编写可维护的JavaScript》 [美]Nicholas C. Zakas
 
 - [Vue.js官方教程](https://cn.vuejs.org/v2/guide/)
 
 
 ## NodeJS
+
 - [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog)  
 - [《Node即学即用》](http://pan.baidu.com/s/1dDppfWH)
 
@@ -48,6 +51,7 @@
 - **[《高性能MySQL(第3版)》](http://www.linuxidc.com/Linux/2014-10/108464.htm)** 王小东，电子工业出版社，2010
 - 《深入浅出MySQL:数据库开发、优化与管理维护》唐汉明，翟振兴，关宝军 等 著，人民邮电出版社，2014-01-01
 - 《Redis实战》[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社，2015-11-01
+
 - [《Memcached全面剖析》](http://pan.baidu.com/s/1eQktDr8)
 - [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
 
@@ -62,14 +66,21 @@
 - [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社，2015
 
 ## C++
+
 - 《C++面向对象程序设计教程》清华大学出版社
 
 ## Python
+
 - [Python教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 ## Golang
-- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md)  
-- [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)    
+
+- [Go Web编程：build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md)  》 谢孟军  著 
+- [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)  
+- [Go 学习笔记 第四版])(https://github.com/qyuhen/book) 雨痕
+- 《Go Web编程》 [新加坡] 郑兆雄（Sau，Sheong，Chang） 著；黄健宏 译
+- [《Go语言编程》](http://vdisk.weibo.com/s/fBR30EqBY7a)许式伟 等 著，人民邮电出版社
+- [《Go语言实战》](http://www.uzzf.com/soft/344044.html) [美] 威廉·肯尼迪（William，Kennedy）等著；李兆海 译，人民邮电出版社
 
 ## Java
 
@@ -99,10 +110,14 @@
 - [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices)  
 
 
-## 编译原理
+## 计算机原理
 
-- 《编译原理》
 - 《程序员的自我修养--链接、装载与库》，电子工业出版社，2009
+- 《编译原理（第2版）》 [美] Alfred V.Aho，[美] Monica S.Lam，[美] Ravi Sethi 等 著；赵建华，郑滔 等 译，机械工业出版社
+
+- **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
+- [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
+- 《TCP/IP协议族（第3版）》BehrouzA.Forouzan
 
 
 ## 设计模式
@@ -110,25 +125,32 @@
 - [《设计模式之禅(第2版) 》](http://download.csdn.net/download/yjwffgip456/8422449) 秦小波，机械工业出版社，2010
 
 
-## TCP/IP
+## 软件工程
 
-- **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
-- [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
-- 《TCP/IP协议族（第3版）》BehrouzA.Forouzan
+- **《黑客与画家：硅谷创业之父Paul Graham文集》** [美] Paul Graham 著；阮一峰 译，人民邮电出版社
+- 《人月神话》FrederickP.Brooks.Jr，清华大学出版社，2002
+- 《捷软件开发（原则模式与实践）》
 
 ## 算法
 
+- **《剑指Offer：名企面试官精讲典型编程题（第2版）》** 何海涛 著，电子工业出版社
 - [《数据结构与算法分析：C语言描述》](http://www.linuxidc.com/Linux/2014-04/99735.htm)机械工业出版社，2004
 - 《数据结构与算法JavaScript描述》(美)Michael McMillan
-- 《人月神话》FrederickP.Brooks.Jr，清华大学出版社，2002
-- 《捷软件开发（原则模式与实践）》
 - 《算法导论》
+
 
 ## Docker
 - 《Docker技术入门与实战》杨保华，戴王剑，曹亚仑，机械工业出版社  
 - 《第一本Docker书(The docker book)》（澳）特恩布尔，人民邮电出版社  
 - 《Kubernetes权威指南：从Docker到Kubernetes实践全接触》龚正，吴治辉，王伟 等  
 - 《Docker容器与容器云》人民邮电出版社 
+
+## 产品设计
+
+- **《简约至上 交互式设计四策略》**[英] 科尔伯恩 著；李松峰，秦绪文 译，人民邮电出版社
+- 《用户体验要素：以用户为中心的产品设计》[美] Jesse James Garrett 著；范晓燕 译，机械工业出版社
+- 《用户体验多面手》[美] Leah Buley 著；新浪微博用户研究与体验设计中心，七印部落 译，华中科技大学出版社
+- 《Don't Make Me Think》[美] 克鲁格（Steve Krug） 著；蒋芳 译，机械工业出版社
 
 
 ## 其它
