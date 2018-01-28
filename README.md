@@ -31,7 +31,6 @@
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [ruanyf/jstraining: 全栈工程师培训材料](https://github.com/ruanyf/jstraining)  
-- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 
 
 -  [《JavaScript权威指南(第6版)》](http://www.jb51.net/books/73981.html)
