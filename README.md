@@ -8,6 +8,10 @@
 
 ---
 
+## 综合在线教程
+- [w3school 在线教程](http://www.w3school.com.cn/)
+- [菜鸟教程](http://www.runoob.com/)
+
 ## PHP
 - **[《细说PHP(第2版)》](http://www.jb51.net/books/105314.html)** 高洛峰，电子工业出版社，2012
 - **[《PHP核心技术与最佳实践》](http://www.jb51.net/books/328937.html)** 列旭松、陈文，机械工业出版社，2012
@@ -20,41 +24,41 @@
 - [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
 
 
-## 前端
+## JavaScript
 
-### HTML/CSS
--  《HTML 5与CSS 3权威指南》陆凌牛，机械工业出版社，2011
-
-### JavaScript在线教程
-- [JavaScript教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+- **[JavaScript教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)**
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [ruanyf/jstraining: 全栈工程师培训材料](https://github.com/ruanyf/jstraining)  
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 
-### JavaScript书籍
+
 -  [《JavaScript权威指南(第6版)》](http://www.jb51.net/books/73981.html)
 -  《锋利的jQuery》人民邮电出版，2009
 -  **《编写可维护的JavaScript》** [美]Nicholas C. Zakas
 -  [《Javascript DOM 艺术编程》](http://pan.baidu.com/s/1gdAIRPx)
 -  [《AngularJS权威指南》](http://pan.baidu.com/s/1eQjUwWa)
 
+## NodeJS
+- [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog)  
+- [《Node即学即用》](http://pan.baidu.com/s/1dDppfWH)
+
 ## 数据库/缓存
+
 - **[《高性能MySQL(第3版)》](http://www.linuxidc.com/Linux/2014-10/108464.htm)** 王小东，电子工业出版社，2010
-- [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
+- 《深入浅出MySQL:数据库开发、优化与管理维护》唐汉明，翟振兴，关宝军 等 著，人民邮电出版社，2014-01-01
+- 《Redis实战》[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社，2015-11-01
 - [《Memcached全面剖析》](http://pan.baidu.com/s/1eQktDr8)
+- [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
 
 ## C
+
 - [《C语言程序设计》](http://www.cr173.com/soft/27321.html) 谭浩强
 - [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社，2015
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
 
 ## C++
 - 《C++面向对象程序设计教程》清华大学出版社
-
-## NodeJS
-- [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog)  
-- [《Node即学即用》](http://pan.baidu.com/s/1dDppfWH)
 
 ## Python
 - [Python教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
@@ -63,9 +67,6 @@
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md)  
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)    
 
-## Shell
-- [shell-book](https://github.com/52fhy/shell-book)  
-
 ## Java
 - 《Java从入门到精通》高宏静等，化学工业出版社
 
@@ -73,47 +74,54 @@
 - 《第一行代码——Android》
 - [2015年最新Android基础入门教程](http://www.runoob.com/w3cnote/android-tutorial-contents.html)
 
-## Docker
-- 《Docker技术入门与实战》杨保华，戴王剑，曹亚仑，机械工业出版社  
-- 《第一本Docker书(The docker book)》（澳）特恩布尔，人民邮电出版社  
-- 《Kubernetes权威指南：从Docker到Kubernetes实践全接触》龚正，吴治辉，王伟 等  
-- 《Docker容器与容器云》人民邮电出版社 
+## Unix/Linux基础
+- [《Linux鸟哥私房菜(第3版)》](http://www.ifunmac.com/2013/05/linux-basic-niao3/)
+- [《LINUX与UNIX Shell编程指南》](http://www.jb51.net/books/58118.html)机械工业出版社，2000》
+- [shell-book](https://github.com/52fhy/shell-book)  
 
-## OpenResty
+## Unix/Linux应用编程
+
+- [《UNIX环境高级编程》](http://download.csdn.net/download/fengfengdiandia/4372834)（美）理查德·史蒂文斯、（美）拉戈，人民邮电出版社，2006
+- 《Linux程序设计》
+- 《Linux C 一站式编程》
+
+## 服务器运维
+- [《实战Nginx:取代Apache的高性能Web服务器》](http://download.csdn.net/download/q782115868/4704817)张宴
+- 《Linux高性能服务器编程》
 - [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices)  
 
-## 综合在线教程
-- [w3school 在线教程](http://www.w3school.com.cn/)
-- [菜鸟教程](http://www.runoob.com/)
+
+## 编译原理
+
+- 《编译原理》
+- 《程序员的自我修养--链接、装载与库》，电子工业出版社，2009
+
 
 ## 设计模式
 - [《设计模式：可复用面向对象软件基础》](http://pan.baidu.com/s/1eQ8Fiwi)
 - [《设计模式之禅(第2版) 》](http://download.csdn.net/download/yjwffgip456/8422449) 秦小波，机械工业出版社，2010
 
+
+## TCP/IP
+
+- **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
+- [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
+- 《TCP/IP协议族（第3版）》BehrouzA.Forouzan
+
 ## 算法
+
 - [《数据结构与算法分析：C语言描述》](http://www.linuxidc.com/Linux/2014-04/99735.htm)机械工业出版社，2004
 - 《数据结构与算法JavaScript描述》(美)Michael McMillan
 - 《人月神话》FrederickP.Brooks.Jr，清华大学出版社，2002
 - 《捷软件开发（原则模式与实践）》
 - 《算法导论》
 
-## TCP/IP
-- **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
-- [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
-- 《TCP/IP协议族（第3版）》BehrouzA.Forouzan
+## Docker
+- 《Docker技术入门与实战》杨保华，戴王剑，曹亚仑，机械工业出版社  
+- 《第一本Docker书(The docker book)》（澳）特恩布尔，人民邮电出版社  
+- 《Kubernetes权威指南：从Docker到Kubernetes实践全接触》龚正，吴治辉，王伟 等  
+- 《Docker容器与容器云》人民邮电出版社 
 
-## 服务器
-- [《实战Nginx:取代Apache的高性能Web服务器》](http://download.csdn.net/download/q782115868/4704817)张宴
-- 《Linux高性能服务器编程》
-
-## 操作系统
-- [《Linux鸟哥私房菜(第3版)》](http://www.ifunmac.com/2013/05/linux-basic-niao3/)
-- [《LINUX与UNIX Shell编程指南》](http://www.jb51.net/books/58118.html)机械工业出版社，2000》
-- [《UNIX环境高级编程》](http://download.csdn.net/download/fengfengdiandia/4372834)（美）理查德·史蒂文斯、（美）拉戈，人民邮电出版社，2006
-
-## 编译原理
-- 《编译原理》
-- 《程序员的自我修养--链接、装载与库》，电子工业出版社，2009
 
 ## 其它
 - [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
