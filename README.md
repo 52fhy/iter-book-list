@@ -75,7 +75,7 @@
 
 ## Golang
 
-- [Go Web编程：build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md)  》 谢孟军  著 
+- [Go Web编程：build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md) 谢孟军  著 
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)  
 - [Go 学习笔记 第四版])(https://github.com/qyuhen/book) 雨痕
 - 《Go Web编程》 [新加坡] 郑兆雄（Sau，Sheong，Chang） 著；黄健宏 译
