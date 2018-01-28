@@ -20,8 +20,7 @@
 - [《PHP精粹编写高效PHP代码》](http://www.jb51.net/books/218921.html)Peter MacIntyre，电子工业出版社，2012
 - [《深入理解PHP高级技巧、面向对象与核心技术(第3版)》](http://download.csdn.net/download/zhiqueen/6230645)(美)Larry Ullman
 - [《PHP高级程序设计：模式、框架与测试》](http://download.csdn.net/download/xr1064/7432811)
-- [PHP之道](http://wulijun.github.io/php-the-right-way/)
-- [PHP 之道 | PHP The Right Way 中文版](http://laravel-china.github.io/php-the-right-way/) 
+- [PHP 之道 | PHP The Right Way 中文版](https://laravel-china.github.io/php-the-right-way/) 
 - [《PHP扩展开发及内核应用》](http://www.cunmou.com/phpbook/preface.md)
 - [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
 
@@ -34,9 +33,11 @@
 - [ruanyf/jstraining: 全栈工程师培训材料](https://github.com/ruanyf/jstraining)  
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 
+
 -  [《JavaScript权威指南(第6版)》](http://www.jb51.net/books/73981.html)
 -  《锋利的jQuery》人民邮电出版，2009
 -  《编写可维护的JavaScript》 [美]Nicholas C. Zakas
+
 
 - [Vue.js官方教程](https://cn.vuejs.org/v2/guide/)
 
