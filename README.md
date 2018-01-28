@@ -32,12 +32,12 @@
 - [ruanyf/jstraining: 全栈工程师培训材料](https://github.com/ruanyf/jstraining)  
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 
-
 -  [《JavaScript权威指南(第6版)》](http://www.jb51.net/books/73981.html)
 -  《锋利的jQuery》人民邮电出版，2009
 -  **《编写可维护的JavaScript》** [美]Nicholas C. Zakas
--  [《Javascript DOM 艺术编程》](http://pan.baidu.com/s/1gdAIRPx)
--  [《AngularJS权威指南》](http://pan.baidu.com/s/1eQjUwWa)
+
+- [Vue.js官方教程](https://cn.vuejs.org/v2/guide/)
+
 
 ## NodeJS
 - [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog)  
@@ -53,9 +53,13 @@
 
 ## C
 
+- 《Linux C编程一站式学习》 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
+- 《轻松学：C语言》苏娟  著 
 - [《C语言程序设计》](http://www.cr173.com/soft/27321.html) 谭浩强
-- [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社，2015
+
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
+
+- [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社，2015
 
 ## C++
 - 《C++面向对象程序设计教程》清华大学出版社
@@ -68,13 +72,16 @@
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)    
 
 ## Java
+
 - 《Java从入门到精通》高宏静等，化学工业出版社
 
 ## Android
+
 - 《第一行代码——Android》
 - [2015年最新Android基础入门教程](http://www.runoob.com/w3cnote/android-tutorial-contents.html)
 
 ## Unix/Linux基础
+
 - [《Linux鸟哥私房菜(第3版)》](http://www.ifunmac.com/2013/05/linux-basic-niao3/)
 - [《LINUX与UNIX Shell编程指南》](http://www.jb51.net/books/58118.html)机械工业出版社，2000》
 - [shell-book](https://github.com/52fhy/shell-book)  
@@ -82,12 +89,13 @@
 ## Unix/Linux应用编程
 
 - [《UNIX环境高级编程》](http://download.csdn.net/download/fengfengdiandia/4372834)（美）理查德·史蒂文斯、（美）拉戈，人民邮电出版社，2006
-- 《Linux程序设计》
-- 《Linux C 一站式编程》
+- 《Linux程序设计（第4版）》 [英] 马修（Matthew N.） 著；陈健，宋健建 译，人民邮电出版社
+- 《Linux C编程一站式学习》 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
+- 《Linux高性能服务器编程》
 
 ## 服务器运维
+
 - [《实战Nginx:取代Apache的高性能Web服务器》](http://download.csdn.net/download/q782115868/4704817)张宴
-- 《Linux高性能服务器编程》
 - [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices)  
 
 
