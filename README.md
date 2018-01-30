@@ -20,7 +20,7 @@
 - [《PHP精粹编写高效PHP代码》](http://www.jb51.net/books/218921.html)Peter MacIntyre，电子工业出版社，2012
 - [《深入理解PHP高级技巧、面向对象与核心技术(第3版)》](http://download.csdn.net/download/zhiqueen/6230645)(美)Larry Ullman
 - [《PHP高级程序设计：模式、框架与测试》](http://download.csdn.net/download/xr1064/7432811)
-- [PHP 之道 | PHP The Right Way 中文版](https://laravel-china.github.io/php-the-right-way/) 
+- [PHP之道|PHP The Right Way 中文版](https://laravel-china.github.io/php-the-right-way) 
 - [《PHP扩展开发及内核应用》](http://www.cunmou.com/phpbook/preface.md)
 - [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
 
@@ -48,9 +48,9 @@
 
 ## 数据库/缓存
 
-- **[《高性能MySQL(第3版)》](http://www.linuxidc.com/Linux/2014-10/108464.htm)** 王小东，电子工业出版社，2010
-- 《深入浅出MySQL:数据库开发、优化与管理维护》唐汉明，翟振兴，关宝军 等 著，人民邮电出版社，2014-01-01
-- 《Redis实战》[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社，2015-11-01
+- **[《高性能MySQL(第3版)》](http://www.linuxidc.com/Linux/2014-10/108464.htm)** 王小东，电子工业出版社
+- 《深入浅出MySQL:数据库开发、优化与管理维护》唐汉明，翟振兴，关宝军 等 著，人民邮电出版社
+- 《Redis实战》[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社
 
 - [《Memcached全面剖析》](http://pan.baidu.com/s/1eQktDr8)
 - [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
@@ -63,7 +63,7 @@
 
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
 
-- [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社，2015
+- [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社
 
 ## C++
 
