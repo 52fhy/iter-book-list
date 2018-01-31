@@ -135,7 +135,7 @@
 - 《软件随想录》[美] 斯伯尔斯基（Joel Spolsky） 著；杨帆 译
 - 《重构 改善既有代码的设计》 [美] 马丁·福勒（Martin Fowler） 著；熊节 译
 - 《人月神话》FrederickP.Brooks.Jr，清华大学出版社，2002
-- 《捷软件开发（原则模式与实践）》
+- 《敏捷软件开发（原则模式与实践）》
 
 - [《设计模式：可复用面向对象软件基础》](http://pan.baidu.com/s/1eQ8Fiwi)
 - [《设计模式之禅(第2版) 》](http://download.csdn.net/download/yjwffgip456/8422449) 秦小波，机械工业出版社，2010
