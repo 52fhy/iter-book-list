@@ -49,6 +49,7 @@
 ## 数据库/缓存
 
 - **[《高性能MySQL(第3版)》](http://www.linuxidc.com/Linux/2014-10/108464.htm)** 王小东，电子工业出版社
+- **[《MySQL 是怎样运行的：从根儿上理解 MySQL》](https://juejin.im/book/5bffcbc9f265da614b11b731?referrer=58c38c7e8ac2470720fcb6a0)**
 - 《深入浅出MySQL:数据库开发、优化与管理维护》唐汉明，翟振兴，关宝军 等 著，人民邮电出版社
 - 《Redis实战》[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社
 
