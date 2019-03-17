@@ -31,10 +31,9 @@
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [ruanyf/jstraining: 全栈工程师培训材料](https://github.com/ruanyf/jstraining)  
-
+- [Web前端入门和进阶学习笔记](https://github.com/qianguyihao/Web) 
 
 -  [《JavaScript权威指南(第6版)》](http://www.jb51.net/books/73981.html)
--  《锋利的jQuery》人民邮电出版，2009
 -  《编写可维护的JavaScript》 [美]Nicholas C. Zakas
 
 
@@ -48,11 +47,13 @@
 
 ## 数据库/缓存
 
-- **[《高性能MySQL(第3版)》](http://www.linuxidc.com/Linux/2014-10/108464.htm)** 王小东，电子工业出版社
-- **[《MySQL 是怎样运行的：从根儿上理解 MySQL》](https://juejin.im/book/5bffcbc9f265da614b11b731?referrer=58c38c7e8ac2470720fcb6a0)** 小孩子4919
-- 《深入浅出MySQL:数据库开发、优化与管理维护》唐汉明，翟振兴，关宝军 等 著，人民邮电出版社
+- [**《高性能MySQL(第3版)》**](http://www.linuxidc.com/Linux/2014-10/108464.htm) 王小东，电子工业出版社
+
+- [**MySQL 是怎样运行的：从根儿上理解 MySQL**](https://juejin.im/book/5bffcbc9f265da614b11b731?referrer=58c38c7e8ac2470720fcb6a0) 小孩子4919
+
 - 《Redis实战》[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社
-- [《Redis 深度历险：核心原理与应用实践》](https://juejin.im/book/5afc2e5f6fb9a07a9b362527?referrer=58c38c7e8ac2470720fcb6a0) 老錢
+- [**Redis 深度历险：核心原理与应用实践**](https://juejin.im/book/5afc2e5f6fb9a07a9b362527?referrer=58c38c7e8ac2470720fcb6a0) 老錢
+
 - [《Memcached全面剖析》](http://pan.baidu.com/s/1eQktDr8)
 - [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
 
@@ -116,7 +117,7 @@
 
 - [《实战Nginx:取代Apache的高性能Web服务器》](http://download.csdn.net/download/q782115868/4704817)张宴
 - [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices)  
-
+- [lua-book](http://me.52fhy.com/lua-book/)
 
 ## 计算机原理
 
@@ -181,7 +182,6 @@
 
 ## 推荐的博客
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
-
 
 
 ## 打赏作者
