@@ -1,8 +1,6 @@
-# PHPer书单
-
-想提升自己，还得多看书！多看书！多看书！<br/>
-下面是我收集到的一些PHP程序员应该看得书单及在线教程，自己也没有全部看完。共勉吧！<br/>
-当然，如果你有好的书想分享给大家的或者觉得书单不合理，可以点击 **fork** ，自己进行完善，然后通过pull request 进行提交。不会pull request的同学可以参考：[github的pull request是指什么意思？](https://www.zhihu.com/question/21682976)
+想提升自己，还得多看书！多看书！多看书！
+下面是我收集到的一些PHP程序员应该看得书单及在线教程，自己也没有全部看完。共勉吧！
+当然，如果你有好的书想分享给大家的或者觉得书单不合理，可以去Github **[52fhy/phper-book-list](https://github.com/52fhy/phper-book-list)** 通过pull request 进行提交。不会pull request的同学可以参考：[github的pull request是指什么意思？](https://www.zhihu.com/question/21682976)
 
 注：带有链接的说明该书有电子版，但强烈推荐阅读纸质书！**加粗**的书是强烈建议大家看的。
 
@@ -10,40 +8,30 @@
 
 ## 综合在线教程
 
-- [w3school 在线教程](http://www.w3school.com.cn/)
-- [菜鸟教程](http://www.runoob.com/)
+- [**w3school 在线教程**](http://www.w3school.com.cn/)
+- [**菜鸟教程**](http://www.runoob.com/)
 
 ## PHP
 
-- **[《细说PHP(第2版)》](http://www.jb51.net/books/105314.html)** 高洛峰，电子工业出版社，2012
-- **[《PHP核心技术与最佳实践》](http://www.jb51.net/books/328937.html)** 列旭松、陈文，机械工业出版社，2012
+- [**《细说PHP(第2版)》**](http://www.jb51.net/books/105314.html) 高洛峰，电子工业出版社，2012
+- [**《PHP核心技术与最佳实践》**](http://www.jb51.net/books/328937.html) 列旭松、陈文，机械工业出版社，2012
 - [《PHP精粹编写高效PHP代码》](http://www.jb51.net/books/218921.html)Peter MacIntyre，电子工业出版社，2012
 - [《深入理解PHP高级技巧、面向对象与核心技术(第3版)》](http://download.csdn.net/download/zhiqueen/6230645)(美)Larry Ullman
 - [《PHP高级程序设计：模式、框架与测试》](http://download.csdn.net/download/xr1064/7432811)
-- [PHP之道: PHP The Right Way 中文版](https://laravel-china.github.io/php-the-right-way) 
-- [《PHP扩展开发及内核应用》](http://www.cunmou.com/phpbook/preface.md)
-- [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
+- [**PHP之道: PHP The Right Way 中文版**](https://laravel-china.github.io/php-the-right-way) 
+- [**《PHP扩展开发及内核应用》**](http://www.cunmou.com/phpbook/preface.md)
+- [**TIPI: 深入理解PHP内核**](http://www.php-internals.com/)
 
 
 ## WEB前端
 
 - **[JavaScript教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)**
-- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
-- [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+- [**JavaScript 标准参考教程（alpha）**](http://javascript.ruanyifeng.com/)
+- [**ECMAScript 6入门**](http://es6.ruanyifeng.com/)
 - [ruanyf/jstraining: 全栈工程师培训材料](https://github.com/ruanyf/jstraining)  
 - [Web前端入门和进阶学习笔记](https://github.com/qianguyihao/Web) 
-
--  [《JavaScript权威指南(第6版)》](http://www.jb51.net/books/73981.html)
--  《编写可维护的JavaScript》 [美]Nicholas C. Zakas
-
-
 - [Vue.js官方教程](https://cn.vuejs.org/v2/guide/)
-
-
-## NodeJS
-
-- [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog)  
-- [《Node即学即用》](http://pan.baidu.com/s/1dDppfWH)
+- [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog) 
 
 ## 数据库/缓存
 
@@ -51,7 +39,7 @@
 
 - [**MySQL 是怎样运行的：从根儿上理解 MySQL**](https://juejin.im/book/5bffcbc9f265da614b11b731?referrer=58c38c7e8ac2470720fcb6a0) 小孩子4919
 
-- 《Redis实战》[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社
+- **《Redis实战》**[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社
 - [**Redis 深度历险：核心原理与应用实践**](https://juejin.im/book/5afc2e5f6fb9a07a9b362527?referrer=58c38c7e8ac2470720fcb6a0) 老錢
 
 - [《Memcached全面剖析》](http://pan.baidu.com/s/1eQktDr8)
@@ -59,8 +47,8 @@
 
 ## C
 
-- 《Linux C编程一站式学习》 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
-- 《轻松学：C语言》苏娟  著 
+- **《Linux C编程一站式学习》** 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
+- **《轻松学：C语言》**苏娟  著 
 - [《C语言程序设计》](http://www.cr173.com/soft/27321.html) 谭浩强
 
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
@@ -73,11 +61,11 @@
 
 ## Python
 
-- [Python教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+- [**Python教程**](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 廖雪峰
 
 ## Golang
 
-- [Go Web编程：build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md) 谢孟军  著 
+- [**Go Web编程：build-web-application-with-golang**](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md) 谢孟军  著 
 - [Go 入门指南：the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)  
 - [Go语言圣经](https://www.gitbook.com/book/yar999/gopl-zh/details)
 - [《Go语言实战》](http://www.uzzf.com/soft/344044.html) [美] 威廉·肯尼迪（William，Kennedy）等著；李兆海 译，人民邮电出版社  
@@ -103,25 +91,25 @@
 - [《Linux鸟哥私房菜(第3版)》](http://www.ifunmac.com/2013/05/linux-basic-niao3/)
 - [《LINUX与UNIX Shell编程指南》](http://www.jb51.net/books/58118.html)机械工业出版社，2000》
 - [shell-book](https://github.com/52fhy/shell-book)  
-- [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [**Git教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 
 ## Unix/Linux应用编程
 
 - [《UNIX环境高级编程》](http://download.csdn.net/download/fengfengdiandia/4372834)（美）理查德·史蒂文斯、（美）拉戈，人民邮电出版社，2006
 - 《Linux程序设计（第4版）》 [英] 马修（Matthew N.） 著；陈健，宋健建 译，人民邮电出版社
-- [《Linux C编程一站式学习》](http://ishare.iask.sina.com.cn/f/37184447.html) 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
+- [**《Linux C编程一站式学习》**](http://ishare.iask.sina.com.cn/f/37184447.html) 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
 - 《Linux高性能服务器编程》
 
 ## 服务器运维
 
 - [《实战Nginx:取代Apache的高性能Web服务器》](http://download.csdn.net/download/q782115868/4704817)张宴
-- [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices)  
+- [**OpenResty 最佳实践**](https://github.com/moonbingbing/openresty-best-practices)  
 - [lua-book](http://me.52fhy.com/lua-book/)
 
 ## 计算机原理
 
-- 《程序员的自我修养--链接、装载与库》，电子工业出版社，2009
+- 《**程序员的自我修养--链接、装载与库**》，电子工业出版社，2009
 - 《编译原理（第2版）》 [美] Alfred V.Aho，[美] Monica S.Lam，[美] Ravi Sethi 等 著；赵建华，郑滔 等 译，机械工业出版社
 
 - 《汇编语言(第3版)》王爽 著，清华大学出版社
@@ -188,5 +176,6 @@
 
 欢迎微信扫码打赏我，感谢支持！
 
-![打赏作者](wechat.png)
+
+![](http://user-gold-cdn.xitu.io/2019/3/17/1698b435fd6190a2?w=387&h=390&f=png&s=35797)
 
