@@ -48,7 +48,7 @@
 ## C
 
 - **《Linux C编程一站式学习》** 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
-- **《轻松学：C语言》**苏娟  著 
+- 《轻松学：C语言》苏娟  著 
 - [《C语言程序设计》](http://www.cr173.com/soft/27321.html) 谭浩强
 
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
