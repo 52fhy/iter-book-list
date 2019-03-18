@@ -15,53 +15,59 @@
 
 - [**《细说PHP(第2版)》**](http://www.jb51.net/books/105314.html) 高洛峰，电子工业出版社，2012
 - [**《PHP核心技术与最佳实践》**](http://www.jb51.net/books/328937.html) 列旭松、陈文，机械工业出版社，2012
+- 《Modern PHP》 Josh Lockhart, 中国电力出版社, 2015
 - [《PHP精粹编写高效PHP代码》](http://www.jb51.net/books/218921.html)Peter MacIntyre，电子工业出版社，2012
 - [《深入理解PHP高级技巧、面向对象与核心技术(第3版)》](http://download.csdn.net/download/zhiqueen/6230645)(美)Larry Ullman
-- [《PHP高级程序设计：模式、框架与测试》](http://download.csdn.net/download/xr1064/7432811)
 - [**PHP之道: PHP The Right Way 中文版**](https://laravel-china.github.io/php-the-right-way) 
-- [**《PHP扩展开发及内核应用》**](http://www.cunmou.com/phpbook/preface.md)
+- [**PHP扩展开发及内核应用**](http://www.cunmou.com/phpbook/preface.md)
 - [**TIPI: 深入理解PHP内核**](http://www.php-internals.com/)
+- 《PHP7内核剖析》 秦朋, 电子工业出版社, 2017
+- 《PHP 7底层设计与源码实现》 陈雷, 机械工业出版社, 2018
 
 
 ## WEB前端
 
-- **[JavaScript教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)**
-- [**JavaScript 标准参考教程（alpha）**](http://javascript.ruanyifeng.com/)
-- [**ECMAScript 6入门**](http://es6.ruanyifeng.com/)
-- [ruanyf/jstraining: 全栈工程师培训材料](https://github.com/ruanyf/jstraining)  
-- [Web前端入门和进阶学习笔记](https://github.com/qianguyihao/Web) 
-- [Vue.js官方教程](https://cn.vuejs.org/v2/guide/)
+- **[JavaScript教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)** , 这是小白的零基础JavaScript全栈教程
+- [**JavaScript 标准参考教程**](https://wangdoc.com/javascript/) , 本教程全面介绍 JavaScript 核心语法，从最简单的讲起，循序渐进、由浅入深，力求清晰易懂
+- [**ECMAScript 6入门**](http://es6.ruanyifeng.com/) , 开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性
+- [ruanyf/jstraining](https://github.com/ruanyf/jstraining) , 全栈工程师培训材料
+- [Vue.js官方教程](https://cn.vuejs.org/v2/guide/) 
 - [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog) 
 
 ## 数据库/缓存
 
 - [**《高性能MySQL(第3版)》**](http://www.linuxidc.com/Linux/2014-10/108464.htm) 王小东，电子工业出版社
 
-- [**MySQL 是怎样运行的：从根儿上理解 MySQL**](https://juejin.im/book/5bffcbc9f265da614b11b731?referrer=58c38c7e8ac2470720fcb6a0) 小孩子4919
+- [**MySQL是怎样运行的：从根儿上理解 MySQL**](https://juejin.im/book/5bffcbc9f265da614b11b731?referrer=58c38c7e8ac2470720fcb6a0) 小孩子4919
 
 - **《Redis实战》**[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社
+- 《Redis设计与实现》 黄健宏，机械工业出版社，2014
 - [**Redis 深度历险：核心原理与应用实践**](https://juejin.im/book/5afc2e5f6fb9a07a9b362527?referrer=58c38c7e8ac2470720fcb6a0) 老錢
 
 - [《Memcached全面剖析》](http://pan.baidu.com/s/1eQktDr8)
 - [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
 
-## C
+- [SQL教程 - 廖雪峰](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000) , 小白的零基础SQL教程
 
-- **《Linux C编程一站式学习》** 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
-- 《轻松学：C语言》苏娟  著 
+
+## C/C++
+
+- [**《Linux C编程一站式学习》**](http://ishare.iask.sina.com.cn/f/37184447.html) 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
+- **《轻松学：C语言》**苏娟  著 
 - [《C语言程序设计》](http://www.cr173.com/soft/27321.html) 谭浩强
 
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
 
 - [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社
-
-## C++
-
 - 《C++面向对象程序设计教程》清华大学出版社
+
+## 汇编
+
+- 《汇编语言（第2版）》 王爽，清华大学出版社，2008
 
 ## Python
 
-- [**Python教程**](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 廖雪峰
+- [**Python教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) , 中文，免费，零起点，完整示例，基于最新的Python 3版本
 
 ## Golang
 
@@ -90,15 +96,14 @@
 
 - [《Linux鸟哥私房菜(第3版)》](http://www.ifunmac.com/2013/05/linux-basic-niao3/)
 - [《LINUX与UNIX Shell编程指南》](http://www.jb51.net/books/58118.html)机械工业出版社，2000》
-- [shell-book](https://github.com/52fhy/shell-book)  
-- [**Git教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [shell-book](https://github.com/52fhy/shell-book) , 6小节内容轻松掌握shell编程
+- [**Git教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) , 史上最浅显易懂的Git教程
 
 
 ## Unix/Linux应用编程
 
 - [《UNIX环境高级编程》](http://download.csdn.net/download/fengfengdiandia/4372834)（美）理查德·史蒂文斯、（美）拉戈，人民邮电出版社，2006
 - 《Linux程序设计（第4版）》 [英] 马修（Matthew N.） 著；陈健，宋健建 译，人民邮电出版社
-- [**《Linux C编程一站式学习》**](http://ishare.iask.sina.com.cn/f/37184447.html) 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
 - 《Linux高性能服务器编程》
 
 ## 服务器运维
@@ -162,13 +167,27 @@
 - 《未来简史》，[以色列]尤瓦尔·赫拉利 著；林俊宏 译，中信出版社
 - 《人性的弱点》，[美] 戴尔·卡耐基 著；陶曚 译
 - 《一课经济学》，亨利·赫茲利特（Henry Hazlitt） 著；罗耀宗 译
+- [《未来世界的幸存者》](http://survivor.ruanyifeng.com/) ，阮一峰
+- [《前方的路》](http://road.ruanyifeng.com/)，阮一峰
 
-## 其它
+
+## 健康
 
 - 《肠子的小心思》，[德] 朱莉娅·恩德斯 著；钱为 译
 
+## 汇总类
+
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) , Web前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个Web全栈工程师。
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) , 免费编程电子书合辑
+- [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) , 最全的资源教程-前端涉及的所有知识体系
+- [todayqq/PHPerInterviewGuide](https://github.com/todayqq/PHPerInterviewGuide) , PHPer 面试指南
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) , 阮一峰技术分享周刊，每周五发布
+
+
+
 
 ## 推荐的博客
+
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
 
@@ -177,5 +196,5 @@
 欢迎微信扫码打赏我，感谢支持！
 
 
-![](http://user-gold-cdn.xitu.io/2019/3/17/1698b435fd6190a2?w=387&h=390&f=png&s=35797)
+![](https://user-gold-cdn.xitu.io/2019/3/17/1698b435fd6190a2?w=387&h=390&f=png&s=35797)
 
