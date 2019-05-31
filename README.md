@@ -37,16 +37,13 @@
 ## 数据库/缓存
 
 - [**《高性能MySQL(第3版)》**](http://www.linuxidc.com/Linux/2014-10/108464.htm) 王小东，电子工业出版社
-
-- [**MySQL是怎样运行的：从根儿上理解 MySQL**](https://juejin.im/book/5bffcbc9f265da614b11b731?referrer=58c38c7e8ac2470720fcb6a0) 小孩子4919
-
+- [**《MySQL是怎样运行的：从根儿上理解 MySQL》**](https://juejin.im/book/5bffcbc9f265da614b11b731?referrer=58c38c7e8ac2470720fcb6a0) 小孩子4919
+- [**《MySQL实战45讲》**](http://gk.link/a/103G4) 林晓斌
 - **《Redis实战》**[美] 约西亚 L.卡尔森（Josiah，L.，Carlson） 著；黄健宏 译， 人民邮电出版社
 - 《Redis设计与实现》 黄健宏，机械工业出版社，2014
 - [**Redis 深度历险：核心原理与应用实践**](https://juejin.im/book/5afc2e5f6fb9a07a9b362527?referrer=58c38c7e8ac2470720fcb6a0) 老錢
-
 - [《Memcached全面剖析》](http://pan.baidu.com/s/1eQktDr8)
 - [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
-
 - [SQL教程 - 廖雪峰](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000) , 小白的零基础SQL教程
 
 
@@ -55,9 +52,7 @@
 - [**《Linux C编程一站式学习》**](http://ishare.iask.sina.com.cn/f/37184447.html) 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
 - **《轻松学：C语言》**苏娟  著 
 - [《C语言程序设计》](http://www.cr173.com/soft/27321.html) 谭浩强
-
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
-
 - [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社
 - 《C++面向对象程序设计教程》清华大学出版社
 
@@ -109,19 +104,25 @@
 ## 服务器运维
 
 - [《实战Nginx:取代Apache的高性能Web服务器》](http://download.csdn.net/download/q782115868/4704817)张宴
-- [**OpenResty 最佳实践**](https://github.com/moonbingbing/openresty-best-practices)  
 - [lua-book](http://me.52fhy.com/lua-book/)
+
+## OpenResty
+
+- [**《OpenResty 最佳实践》**](https://github.com/moonbingbing/openresty-best-practices) ，开源电子书
+- [**《OpenResty从入门到实战》**](http://gk.link/a/103vz) ，为你打开高性能开发的大门。讲师：温铭，OpenResty软件基金会主席，《OpenResty 最佳实践》作者。
 
 ## 计算机原理
 
 - 《**程序员的自我修养--链接、装载与库**》，电子工业出版社，2009
 - 《编译原理（第2版）》 [美] Alfred V.Aho，[美] Monica S.Lam，[美] Ravi Sethi 等 著；赵建华，郑滔 等 译，机械工业出版社
-
 - 《汇编语言(第3版)》王爽 著，清华大学出版社
-
 - **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
 - [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
 - 《TCP/IP协议族（第3版）》BehrouzA.Forouzan
+
+## 消息队列
+
+- [**《图解 Kafka 之实战指南》**](https://juejin.im/book/5c7d467e5188251b9156fdc0?referrer=58c38c7e8ac2470720fcb6a0) ，从基础概念入手，再到原理深入，由浅入深理解 Kafka。
 
 
 ## 软件工程
@@ -131,7 +132,6 @@
 - 《重构 改善既有代码的设计》 [美] 马丁·福勒（Martin Fowler） 著；熊节 译
 - 《人月神话》FrederickP.Brooks.Jr，清华大学出版社，2002
 - 《敏捷软件开发（原则模式与实践）》
-
 - [《设计模式：可复用面向对象软件基础》](http://pan.baidu.com/s/1eQ8Fiwi)
 - [《设计模式之禅(第2版) 》](http://download.csdn.net/download/yjwffgip456/8422449) 秦小波，机械工业出版社，2010
 
@@ -149,6 +149,7 @@
 - 《第一本Docker书(The docker book)》（澳）特恩布尔，人民邮电出版社  
 - 《Kubernetes权威指南：从Docker到Kubernetes实践全接触》龚正，吴治辉，王伟 等  
 - 《Docker容器与容器云》人民邮电出版社 
+- [**《Kubernetes 从上手到实践》**](https://juejin.im/book/5b9b2dc86fb9a05d0f16c8ac?referrer=58c38c7e8ac2470720fcb6a0) ，从上手实践到原理剖析，带你掌握 Kubernetes 必备技能。
 
 ## 产品设计
 
@@ -190,11 +191,18 @@
 
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
+## 推荐的VPS
+
+[![推荐！每月仅需2.5美元，即可拥有配置SSD的VPS！](http://images2018.cnblogs.com/blog/663847/201803/663847-20180320230952352-130790341.png)](https://www.vultr.com/?ref=7166743)
+
+
 
 ## 打赏作者
 
 欢迎微信扫码打赏我，感谢支持！
 
 
-![](https://user-gold-cdn.xitu.io/2019/3/17/1698b435fd6190a2?w=387&h=390&f=png&s=35797)
+![](http://user-gold-cdn.xitu.io/2019/3/17/1698b435fd6190a2?w=387&h=390&f=png&s=35797)
+
+
 
