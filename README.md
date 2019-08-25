@@ -13,12 +13,10 @@
 
 ## PHP
 
-- [**《细说PHP(第2版)》**](http://www.jb51.net/books/105314.html) 高洛峰，电子工业出版社，2012
-- [**《PHP核心技术与最佳实践》**](http://www.jb51.net/books/328937.html) 列旭松、陈文，机械工业出版社，2012
-- 《Modern PHP》 Josh Lockhart, 中国电力出版社, 2015
-- [《PHP精粹编写高效PHP代码》](http://www.jb51.net/books/218921.html)Peter MacIntyre，电子工业出版社，2012
-- [《深入理解PHP高级技巧、面向对象与核心技术(第3版)》](http://download.csdn.net/download/zhiqueen/6230645)(美)Larry Ullman
-- [**PHP之道: PHP The Right Way 中文版**](https://laravel-china.github.io/php-the-right-way) 
+- [**《细说PHP(第2版)》**](http://www.jb51.net/books/105314.html) 高洛峰，电子工业出版社，2012。适用初学者。  
+- [**《PHP核心技术与最佳实践》**](http://www.jb51.net/books/328937.html) 列旭松、陈文，机械工业出版社，2012。适用进阶者。  
+- 《Modern PHP》 Josh Lockhart, 中国电力出版社, 2015。适用初学者。  
+- [**PHP之道: PHP The Right Way 中文版**](https://laravel-china.github.io/php-the-right-way)。适用进阶者。  
 - [**PHP扩展开发及内核应用**](http://www.cunmou.com/phpbook/preface.md)
 - [**TIPI: 深入理解PHP内核**](http://www.php-internals.com/)
 - 《PHP7内核剖析》 秦朋, 电子工业出版社, 2017
@@ -47,6 +45,16 @@
 - [SQL教程 - 廖雪峰](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000) , 小白的零基础SQL教程
 
 
+## 计算机基础
+
+- 《深入理解计算机系统（原书第3版）》，机械工业出版社，2016，（美）布赖恩特（Bryant,R.E.） 等  
+- 《程序员的自我修养--链接、装载与库》，电子工业出版社，2009
+- 《编译原理（第2版）》 [美] Alfred V.Aho，[美] Monica S.Lam，[美] Ravi Sethi 等 著；赵建华，郑滔 等 译，机械工业出版社
+- 《汇编语言(第3版)》王爽 著，清华大学出版社
+- **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
+- [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
+
+
 ## C/C++
 
 - [**《Linux C编程一站式学习》**](http://ishare.iask.sina.com.cn/f/37184447.html) 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社
@@ -55,10 +63,6 @@
 - [C语言入门教程_C语言中文网](http://c.biancheng.net/cpp/u/jiaocheng/)
 - [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社
 - 《C++面向对象程序设计教程》清华大学出版社
-
-## 汇编
-
-- 《汇编语言（第2版）》 王爽，清华大学出版社，2008
 
 ## Python
 
@@ -79,6 +83,7 @@
 
 ## Java
 
+- [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)。小白的零基础Java教程。  
 - 《Java语言程序设计(第2版)》 丁振凡 著，清华大学出版社
 - 《Java从入门到精通》高宏静等，化学工业出版社
 
@@ -89,9 +94,9 @@
 
 ## Unix/Linux基础
 
+- [shell-book](https://github.com/52fhy/shell-book) , 6小节内容轻松掌握shell编程
 - [《Linux鸟哥私房菜(第3版)》](http://www.ifunmac.com/2013/05/linux-basic-niao3/)
 - [《LINUX与UNIX Shell编程指南》](http://www.jb51.net/books/58118.html)机械工业出版社，2000》
-- [shell-book](https://github.com/52fhy/shell-book) , 6小节内容轻松掌握shell编程
 - [**Git教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) , 史上最浅显易懂的Git教程
 
 
@@ -110,15 +115,6 @@
 
 - [**《OpenResty 最佳实践》**](https://github.com/moonbingbing/openresty-best-practices) ，开源电子书
 - [**《OpenResty从入门到实战》**](http://gk.link/a/103vz) ，为你打开高性能开发的大门。讲师：温铭，OpenResty软件基金会主席，《OpenResty 最佳实践》作者。
-
-## 计算机原理
-
-- 《**程序员的自我修养--链接、装载与库**》，电子工业出版社，2009
-- 《编译原理（第2版）》 [美] Alfred V.Aho，[美] Monica S.Lam，[美] Ravi Sethi 等 著；赵建华，郑滔 等 译，机械工业出版社
-- 《汇编语言(第3版)》王爽 著，清华大学出版社
-- **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
-- [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
-- 《TCP/IP协议族（第3版）》BehrouzA.Forouzan
 
 ## 消息队列
 
