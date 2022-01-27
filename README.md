@@ -214,10 +214,6 @@
 
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
-## 推荐的VPS
-
-[![推荐！每月仅需2.5美元，即可拥有配置SSD的VPS！](http://images2018.cnblogs.com/blog/663847/201803/663847-20180320230952352-130790341.png)](https://www.vultr.com/?ref=7166743)
-
 
 
 ## 打赏作者
