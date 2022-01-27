@@ -29,26 +29,8 @@
 - [**w3school 在线教程**](http://www.w3school.com.cn/)
 - [**菜鸟教程**](http://www.runoob.com/)
 
-## PHP
-
-- [**《细说PHP(第2版)》**](http://www.jb51.net/books/105314.html) 高洛峰，电子工业出版社，2012。适用初学者。  
-- [**《PHP核心技术与最佳实践》**](http://www.jb51.net/books/328937.html) 列旭松、陈文，机械工业出版社，2012。适用进阶者。  
-- 《Modern PHP》 Josh Lockhart, 中国电力出版社, 2015。适用初学者。  
-- [**PHP之道: PHP The Right Way 中文版**](https://laravel-china.github.io/php-the-right-way)。适用进阶者。  
-- [**PHP扩展开发及内核应用**](http://www.cunmou.com/phpbook/preface.md)
-- [**TIPI: 深入理解PHP内核**](http://www.php-internals.com/)
-- 《PHP7内核剖析》 秦朋, 电子工业出版社, 2017
-- 《PHP 7底层设计与源码实现》 陈雷, 机械工业出版社, 2018
 
 
-## WEB前端
-
-- **[JavaScript教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)** , 这是小白的零基础JavaScript全栈教程
-- [**JavaScript 标准参考教程**](https://wangdoc.com/javascript/) , 本教程全面介绍 JavaScript 核心语法，从最简单的讲起，循序渐进、由浅入深，力求清晰易懂
-- [**ECMAScript 6入门**](http://es6.ruanyifeng.com/) , 开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性
-- [ruanyf/jstraining](https://github.com/ruanyf/jstraining) , 全栈工程师培训材料
-- [Vue.js官方教程](https://cn.vuejs.org/v2/guide/) 
-- [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog) 
 
 ## 数据库/缓存
 
@@ -73,9 +55,7 @@
 - [《C++ Primer Plus(第6版)中文版》](http://www.linuxidc.com/Linux/2014-05/101227.htm)史蒂芬·普拉达，人民邮电出版社
 - 《C++面向对象程序设计教程》清华大学出版社
 
-## Python
 
-- [**Python教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) , 中文，免费，零起点，完整示例，基于最新的Python 3版本
 
 ## Golang
 
@@ -89,6 +69,24 @@
 - [Go 学习笔记 第四版](https://github.com/qyuhen/book) 雨痕
 - 《Go Web编程》 [新加坡] 郑兆雄（Sau，Sheong，Chang） 著；黄健宏 译
 - [《Go语言编程》](http://vdisk.weibo.com/s/fBR30EqBY7a)许式伟 等 著，人民邮电出版社
+
+
+## PHP
+
+- [**《细说PHP(第2版)》**](http://www.jb51.net/books/105314.html) 高洛峰，电子工业出版社，2012。适用初学者。  
+- [**《PHP核心技术与最佳实践》**](http://www.jb51.net/books/328937.html) 列旭松、陈文，机械工业出版社，2012。适用进阶者。  
+- 《Modern PHP》 Josh Lockhart, 中国电力出版社, 2015。适用初学者。  
+- [**PHP之道: PHP The Right Way 中文版**](https://laravel-china.github.io/php-the-right-way)。适用进阶者。  
+- [**PHP扩展开发及内核应用**](http://www.cunmou.com/phpbook/preface.md)
+- [**TIPI: 深入理解PHP内核**](http://www.php-internals.com/)
+- 《PHP7内核剖析》 秦朋, 电子工业出版社, 2017
+- 《PHP 7底层设计与源码实现》 陈雷, 机械工业出版社, 2018
+
+
+## Python
+
+- [**Python教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) , 中文，免费，零起点，完整示例，基于最新的Python 3版本
+
 
 
 ## Java
@@ -157,12 +155,32 @@
 - 《Docker容器与容器云》人民邮电出版社 
 - [**《Kubernetes 从上手到实践》**](https://juejin.im/book/5b9b2dc86fb9a05d0f16c8ac?referrer=58c38c7e8ac2470720fcb6a0) ，从上手实践到原理剖析，带你掌握 Kubernetes 必备技能。
 
+
+## WEB前端
+
+- **[JavaScript教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)** , 这是小白的零基础JavaScript全栈教程
+- [**JavaScript 标准参考教程**](https://wangdoc.com/javascript/) , 本教程全面介绍 JavaScript 核心语法，从最简单的讲起，循序渐进、由浅入深，力求清晰易懂
+- [**ECMAScript 6入门**](http://es6.ruanyifeng.com/) , 开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性
+- [ruanyf/jstraining](https://github.com/ruanyf/jstraining) , 全栈工程师培训材料
+- [Vue.js官方教程](https://cn.vuejs.org/v2/guide/) 
+- [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog) 
+
+
+## 数学
+
+- [普林斯顿微积分读本（修订版）]-阿德里安·班纳(https://weread.qq.com/web/reader/80832570718ff64f8085a5f)
+- 线性代数
+- 概率论与数理统计
+
+
 ## 产品设计
 
 - **《简约至上 交互式设计四策略》**[英] 科尔伯恩 著；李松峰，秦绪文 译，人民邮电出版社
 - 《用户体验要素：以用户为中心的产品设计》[美] Jesse James Garrett 著；范晓燕 译，机械工业出版社
 - 《用户体验多面手》[美] Leah Buley 著；新浪微博用户研究与体验设计中心，七印部落 译，华中科技大学出版社
 - 《Don't Make Me Think》[美] 克鲁格（Steve Krug） 著；蒋芳 译，机械工业出版社
+
+
 
 ## 代码规范
 
