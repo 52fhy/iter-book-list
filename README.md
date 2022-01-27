@@ -1,6 +1,6 @@
 想提升自己，还得多看书！多看书！多看书！
 下面是我收集到的一些后端攻城狮应该看得书单及在线教程，自己也没有全部看完。共勉吧！
-当然，如果你有好的书想分享给大家的或者觉得书单不合理，可以去Github **[52fhy/phper-book-list](https://github.com/52fhy/phper-book-list)** 通过pull request 进行提交。不会pull request的同学可以参考：[github的pull request是指什么意思？](https://www.zhihu.com/question/21682976)
+当然，如果你有好的书想分享给大家的或者觉得书单不合理，可以去Github **[52fhy/iter-book-list](https://github.com/52fhy/iter-book-list)** 通过pull request 进行提交。不会pull request的同学可以参考：[github的pull request是指什么意思？](https://www.zhihu.com/question/21682976)
 
 注：带有链接的说明该书有电子版，但强烈推荐阅读纸质书！**加粗**的书是强烈建议大家看的。
 
