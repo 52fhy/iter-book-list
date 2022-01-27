@@ -6,6 +6,24 @@
 
 ---
 
+## 计算机基础
+
+- 计算机组成原理
+- 数据结构
+- 操作系统
+- 计算机网络
+
+
+## 计算机基础拓展
+
+- 《深入理解计算机系统（原书第3版）》，机械工业出版社，2016，（美）布赖恩特（Bryant,R.E.） 等  
+- 《程序员的自我修养--链接、装载与库》，电子工业出版社，2009
+- 《编译原理（第2版）》 [美] Alfred V.Aho，[美] Monica S.Lam，[美] Ravi Sethi 等 著；赵建华，郑滔 等 译，机械工业出版社
+- 《汇编语言(第3版)》王爽 著，清华大学出版社
+- **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
+- [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
+
+
 ## 综合在线教程
 
 - [**w3school 在线教程**](http://www.w3school.com.cn/)
@@ -44,15 +62,6 @@
 - [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
 - [SQL教程 - 廖雪峰](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000) , 小白的零基础SQL教程
 
-
-## 计算机基础
-
-- 《深入理解计算机系统（原书第3版）》，机械工业出版社，2016，（美）布赖恩特（Bryant,R.E.） 等  
-- 《程序员的自我修养--链接、装载与库》，电子工业出版社，2009
-- 《编译原理（第2版）》 [美] Alfred V.Aho，[美] Monica S.Lam，[美] Ravi Sethi 等 著；赵建华，郑滔 等 译，机械工业出版社
-- 《汇编语言(第3版)》王爽 著，清华大学出版社
-- **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
-- [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
 
 
 ## C/C++
