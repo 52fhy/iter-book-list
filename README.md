@@ -43,6 +43,7 @@
 - [《Memcached全面剖析》](http://pan.baidu.com/s/1eQktDr8)
 - [《MongoDB权威指南》](http://pan.baidu.com/s/1jGp8Wya)
 - [SQL教程 - 廖雪峰](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000) , 小白的零基础SQL教程
+- [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
 
 
