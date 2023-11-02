@@ -6,6 +6,12 @@
 
 ---
 
+## 综合在线教程
+
+- [**w3school 在线教程**](http://www.w3school.com.cn/)
+- [**菜鸟教程**](http://www.runoob.com/)
+  
+
 ## 计算机基础
 
 - **计算机组成原理**
@@ -13,23 +19,52 @@
 - **操作系统**
 - **计算机网络**
 
+计算机基础是程序员必须掌握的基本知识，包括计算机组成原理、操作系统、计算机网络、数据库等方面的内容，是程序员进行软件开发的基础。
+
 
 ## 计算机基础拓展
 
-- 《深入理解计算机系统（原书第3版）》，机械工业出版社，2016，（美）布赖恩特（Bryant,R.E.） 等  
+- **《深入理解计算机系统（原书第3版）》**，机械工业出版社，2016，（美）布赖恩特（Bryant,R.E.） 等  
 - 《程序员的自我修养--链接、装载与库》，电子工业出版社，2009
 - 《编译原理（第2版）》 [美] Alfred V.Aho，[美] Monica S.Lam，[美] Ravi Sethi 等 著；赵建华，郑滔 等 译，机械工业出版社
 - 《汇编语言(第3版)》王爽 著，清华大学出版社
 - **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
 - [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
 
+这些是计算机基础相关教材的扩充。
 
-## 综合在线教程
+## 软件工程
 
-- [**w3school 在线教程**](http://www.w3school.com.cn/)
-- [**菜鸟教程**](http://www.runoob.com/)
+- **《黑客与画家：硅谷创业之父Paul Graham文集》** [美] Paul Graham 著；阮一峰 译，人民邮电出版社
+- 《软件随想录》[美] 斯伯尔斯基（Joel Spolsky） 著；杨帆 译
+- 《重构 改善既有代码的设计》 [美] 马丁·福勒（Martin Fowler） 著；熊节 译
+- 《人月神话》FrederickP.Brooks.Jr，清华大学出版社，2002
+- 《敏捷软件开发（原则模式与实践）》
+- [《设计模式：可复用面向对象软件基础》](http://pan.baidu.com/s/1eQ8Fiwi)
+- [《设计模式之禅(第2版) 》](http://download.csdn.net/download/yjwffgip456/8422449) 秦小波，机械工业出版社，2010
 
+软件工程是一门涉及计算机科学、工程学、管理学和数学等多个领域的学科，主要研究如何开发、维护和管理高质量的软件系统，对程序员来说，掌握软件工程的方法和工具可以提高开发效率和质量。
 
+## 算法
+
+- **[《 Hello 算法 》](https://www.hello-algo.com/)** 动画图解、一键运行的数据结构与算法教程
+- **[《labuladong 的算法笔记》](https://labuladong.gitee.io/algo/)** 
+- **《剑指Offer：名企面试官精讲典型编程题（第2版）》** 何海涛 著，电子工业出版社
+- [《数据结构与算法分析：C语言描述》](http://www.linuxidc.com/Linux/2014-04/99735.htm)机械工业出版社，2004
+- 《数据结构与算法JavaScript描述》(美)Michael McMillan
+- 《算法导论》
+
+算法是程序员必须掌握的基本知识，是解决计算问题的方法和步骤，对程序员来说，掌握算法可以提高程序的效率和性能，降低程序的复杂度和错误率。
+
+## Unix/Linux基础
+
+- [shell-book](https://github.com/52fhy/shell-book) , 6小节内容轻松掌握shell编程
+- [《Linux鸟哥私房菜(第3版)》](http://www.ifunmac.com/2013/05/linux-basic-niao3/)
+- [《LINUX与UNIX Shell编程指南》](http://www.jb51.net/books/58118.html)机械工业出版社，2000》
+- [**Git教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) , 史上最浅显易懂的Git教程
+- [《UNIX环境高级编程》](http://download.csdn.net/download/fengfengdiandia/4372834)（美）理查德·史蒂文斯、（美）拉戈，人民邮电出版社，2006
+- 《Linux程序设计（第4版）》 [英] 马修（Matthew N.） 著；陈健，宋健建 译，人民邮电出版社
+- 《Linux高性能服务器编程》
 
 
 ## 数据库/缓存
@@ -46,7 +81,6 @@
 - [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
 
-
 ## C/C++
 
 - [**《Linux C编程一站式学习》**](https://akaedu.github.io/book/) 宋劲彬 著；北京亚嵌教育研究中心组 编，电子工业出版社。[备1](https://52fhy.gitee.io/linux-c/#/), [备2](https://www.bookstack.cn/read/linux-c/menu.md)
@@ -57,6 +91,14 @@
 - 《C++面向对象程序设计教程》清华大学出版社
 
 
+## Java
+
+- [**《Java教程 - 廖雪峰的官方网站》**](https://www.liaoxuefeng.com/wiki/1252599548343744)。小白的零基础Java教程。  
+- 《Java语言程序设计(第2版)》 丁振凡 著，清华大学出版社
+- 《Java从入门到精通》高宏静等，化学工业出版社
+- **《深入理解 Java 虚拟机（第 3 版）周志明》**
+- 《深入理解 Java 虚拟机》
+  
 
 ## Golang
 
@@ -65,8 +107,6 @@
 - [Go 入门指南：the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)  
 - [Go语言圣经](https://www.gitbook.com/book/yar999/gopl-zh/details)
 - [《Go语言实战》](http://www.uzzf.com/soft/344044.html) [美] 威廉·肯尼迪（William，Kennedy）等著；李兆海 译，人民邮电出版社  
-
-
 - [Go 学习笔记 第四版](https://github.com/qyuhen/book) 雨痕
 - 《Go Web编程》 [新加坡] 郑兆雄（Sau，Sheong，Chang） 著；黄健宏 译
 - [《Go语言编程》](http://vdisk.weibo.com/s/fBR30EqBY7a)许式伟 等 著，人民邮电出版社
@@ -88,32 +128,14 @@
 
 - [**Python教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) , 中文，免费，零起点，完整示例，基于最新的Python 3版本
 
-
-
-## Java
-
-- [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)。小白的零基础Java教程。  
-- 《Java语言程序设计(第2版)》 丁振凡 著，清华大学出版社
-- 《Java从入门到精通》高宏静等，化学工业出版社
-
 ## Android
 
 - 《第一行代码 Android 第2版》郭霖 著，人民邮电出版社
 - [2015年最新Android基础入门教程](http://www.runoob.com/w3cnote/android-tutorial-contents.html)
 
-## Unix/Linux基础
-
-- [shell-book](https://github.com/52fhy/shell-book) , 6小节内容轻松掌握shell编程
-- [《Linux鸟哥私房菜(第3版)》](http://www.ifunmac.com/2013/05/linux-basic-niao3/)
-- [《LINUX与UNIX Shell编程指南》](http://www.jb51.net/books/58118.html)机械工业出版社，2000》
-- [**Git教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) , 史上最浅显易懂的Git教程
 
 
-## Unix/Linux应用编程
 
-- [《UNIX环境高级编程》](http://download.csdn.net/download/fengfengdiandia/4372834)（美）理查德·史蒂文斯、（美）拉戈，人民邮电出版社，2006
-- 《Linux程序设计（第4版）》 [英] 马修（Matthew N.） 著；陈健，宋健建 译，人民邮电出版社
-- 《Linux高性能服务器编程》
 
 ## 服务器运维
 
@@ -129,24 +151,6 @@
 
 - [**《图解 Kafka 之实战指南》**](https://juejin.im/book/5c7d467e5188251b9156fdc0?referrer=58c38c7e8ac2470720fcb6a0) ，从基础概念入手，再到原理深入，由浅入深理解 Kafka。
 
-
-## 软件工程
-
-- **《黑客与画家：硅谷创业之父Paul Graham文集》** [美] Paul Graham 著；阮一峰 译，人民邮电出版社
-- 《软件随想录》[美] 斯伯尔斯基（Joel Spolsky） 著；杨帆 译
-- 《重构 改善既有代码的设计》 [美] 马丁·福勒（Martin Fowler） 著；熊节 译
-- 《人月神话》FrederickP.Brooks.Jr，清华大学出版社，2002
-- 《敏捷软件开发（原则模式与实践）》
-- [《设计模式：可复用面向对象软件基础》](http://pan.baidu.com/s/1eQ8Fiwi)
-- [《设计模式之禅(第2版) 》](http://download.csdn.net/download/yjwffgip456/8422449) 秦小波，机械工业出版社，2010
-
-
-## 算法
-
-- **《剑指Offer：名企面试官精讲典型编程题（第2版）》** 何海涛 著，电子工业出版社
-- [《数据结构与算法分析：C语言描述》](http://www.linuxidc.com/Linux/2014-04/99735.htm)机械工业出版社，2004
-- 《数据结构与算法JavaScript描述》(美)Michael McMillan
-- 《算法导论》
 
 
 ## Docker
