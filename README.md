@@ -1,3 +1,7 @@
+# iter-book-list
+
+
+
 想提升自己，还得多看书！多看书！多看书！
 下面是我收集到的一些IT工程师应该看得书单及在线教程，自己也没有全部看完。共勉吧！
 当然，如果你有好的书想分享给大家的或者觉得书单不合理，可以去Github **[52fhy/iter-book-list](https://github.com/52fhy/iter-book-list)** 通过pull request 进行提交。不会pull request的同学可以参考：[github的pull request是指什么意思？](https://www.zhihu.com/question/21682976)
@@ -14,15 +18,15 @@
 
 ## 计算机基础
 
+计算机基础是程序员必须掌握的基本知识，包括计算机组成原理、操作系统、计算机网络、数据库等方面的内容，是程序员进行软件开发的基础。
+
 - **计算机组成原理**
 - **数据结构**
 - **操作系统**
 - **计算机网络**
 
-计算机基础是程序员必须掌握的基本知识，包括计算机组成原理、操作系统、计算机网络、数据库等方面的内容，是程序员进行软件开发的基础。
 
-
-## 计算机基础拓展
+这些是计算机基础相关教材的扩充：
 
 - **《深入理解计算机系统（原书第3版）》**，机械工业出版社，2016，（美）布赖恩特（Bryant,R.E.） 等  
 - 《程序员的自我修养--链接、装载与库》，电子工业出版社，2009
@@ -31,9 +35,11 @@
 - **[《TCP/IP详解》](http://www.3987.com/xiazai/2/48/158/40780.html)** Gary.Wrigh，机械工业出版，2009
 - [《图解HTTP》](http://pan.baidu.com/s/1pJOFP2r)(上野宣)
 
-这些是计算机基础相关教材的扩充。
+
 
 ## 软件工程
+
+软件工程是一门涉及计算机科学、工程学、管理学和数学等多个领域的学科，主要研究如何开发、维护和管理高质量的软件系统，对程序员来说，掌握软件工程的方法和工具可以提高开发效率和质量。
 
 - **《黑客与画家：硅谷创业之父Paul Graham文集》** [美] Paul Graham 著；阮一峰 译，人民邮电出版社
 - 《软件随想录》[美] 斯伯尔斯基（Joel Spolsky） 著；杨帆 译
@@ -43,9 +49,10 @@
 - [《设计模式：可复用面向对象软件基础》](http://pan.baidu.com/s/1eQ8Fiwi)
 - [《设计模式之禅(第2版) 》](http://download.csdn.net/download/yjwffgip456/8422449) 秦小波，机械工业出版社，2010
 
-软件工程是一门涉及计算机科学、工程学、管理学和数学等多个领域的学科，主要研究如何开发、维护和管理高质量的软件系统，对程序员来说，掌握软件工程的方法和工具可以提高开发效率和质量。
 
 ## 算法
+
+算法是程序员必须掌握的基本知识，是解决计算问题的方法和步骤，对程序员来说，掌握算法可以提高程序的效率和性能，降低程序的复杂度和错误率。
 
 - **[《 Hello 算法 》](https://www.hello-algo.com/)** 动画图解、一键运行的数据结构与算法教程
 - **[《labuladong 的算法笔记》](https://labuladong.gitee.io/algo/)** 
@@ -54,7 +61,6 @@
 - 《数据结构与算法JavaScript描述》(美)Michael McMillan
 - 《算法导论》
 
-算法是程序员必须掌握的基本知识，是解决计算问题的方法和步骤，对程序员来说，掌握算法可以提高程序的效率和性能，降低程序的复杂度和错误率。
 
 ## Unix/Linux基础
 
@@ -105,7 +111,7 @@
 
 - [**Go Web编程：build-web-application-with-golang**](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md) 谢孟军  著 
 - [**Go语言高级编程**](https://chai2010.cn/advanced-go-programming-book/)  柴树杉
-- [Go 入门指南：the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)  
+- [Go 入门指南：the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)  
 - [Go语言圣经](https://www.gitbook.com/book/yar999/gopl-zh/details)
 - [《Go语言实战》](http://www.uzzf.com/soft/344044.html) [美] 威廉·肯尼迪（William，Kennedy）等著；李兆海 译，人民邮电出版社  
 - [Go 学习笔记 第四版](https://github.com/qyuhen/book) 雨痕
@@ -129,37 +135,6 @@
 
 - [**Python教程 - 廖雪峰**](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) , 中文，免费，零起点，完整示例，基于最新的Python 3版本
 
-## Android
-
-- 《第一行代码 Android 第2版》郭霖 著，人民邮电出版社
-- [2015年最新Android基础入门教程](http://www.runoob.com/w3cnote/android-tutorial-contents.html)
-
-
-
-
-
-## 服务器运维
-
-- [《实战Nginx:取代Apache的高性能Web服务器》](http://download.csdn.net/download/q782115868/4704817)张宴
-- [lua-book](http://me.52fhy.com/lua-book/)
-
-## OpenResty
-
-- [**《OpenResty 最佳实践》**](https://github.com/moonbingbing/openresty-best-practices) ，开源电子书
-- [**《OpenResty从入门到实战》**](http://gk.link/a/103vz) ，为你打开高性能开发的大门。讲师：温铭，OpenResty软件基金会主席，《OpenResty 最佳实践》作者。
-
-## 消息队列
-
-- [**《图解 Kafka 之实战指南》**](https://juejin.im/book/5c7d467e5188251b9156fdc0?referrer=58c38c7e8ac2470720fcb6a0) ，从基础概念入手，再到原理深入，由浅入深理解 Kafka。
-
-
-
-## Docker
-- 《Docker技术入门与实战》杨保华，戴王剑，曹亚仑，机械工业出版社  
-- 《第一本Docker书(The docker book)》（澳）特恩布尔，人民邮电出版社  
-- 《Kubernetes权威指南：从Docker到Kubernetes实践全接触》龚正，吴治辉，王伟 等  
-- 《Docker容器与容器云》人民邮电出版社 
-- [**《Kubernetes 从上手到实践》**](https://juejin.im/book/5b9b2dc86fb9a05d0f16c8ac?referrer=58c38c7e8ac2470720fcb6a0) ，从上手实践到原理剖析，带你掌握 Kubernetes 必备技能。
 
 
 ## WEB前端
@@ -171,12 +146,52 @@
 - [Vue.js官方教程](https://cn.vuejs.org/v2/guide/) 
 - [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog) 
 
+## AI
+
+- d2l-ai/d2l-zh: 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+https://github.com/d2l-ai/d2l-zh
+
+
+## Android
+
+- 《第一行代码 Android 第2版》郭霖 著，人民邮电出版社
+- [2015年最新Android基础入门教程](http://www.runoob.com/w3cnote/android-tutorial-contents.html)
+
+
+## Docker
+- 《Docker技术入门与实战》杨保华，戴王剑，曹亚仑，机械工业出版社  
+- 《第一本Docker书(The docker book)》（澳）特恩布尔，人民邮电出版社  
+- 《Kubernetes权威指南：从Docker到Kubernetes实践全接触》龚正，吴治辉，王伟 等  
+- 《Docker容器与容器云》人民邮电出版社 
+- [**《Kubernetes 从上手到实践》**](https://juejin.im/book/5b9b2dc86fb9a05d0f16c8ac?referrer=58c38c7e8ac2470720fcb6a0) ，从上手实践到原理剖析，带你掌握 Kubernetes 必备技能。
+
+
+
+## Lua
+
+- [lua-book](http://me.52fhy.com/lua-book/)
+
+## OpenResty
+
+- [**《OpenResty 最佳实践》**](https://github.com/moonbingbing/openresty-best-practices) ，开源电子书
+- [**《OpenResty从入门到实战》**](http://gk.link/a/103vz) ，为你打开高性能开发的大门。讲师：温铭，OpenResty软件基金会主席，《OpenResty 最佳实践》作者。
+
+## 中间件
+
+- [**《图解 Kafka 之实战指南》**](https://juejin.im/book/5c7d467e5188251b9156fdc0?referrer=58c38c7e8ac2470720fcb6a0) ，从基础概念入手，再到原理深入，由浅入深理解 Kafka。
+
+
+
+## 代码规范
+
+- [文档与源码编写风格](https://github.com/fex-team/styleguide)
 
 ## 数学
 
-- [普林斯顿微积分读本（修订版）](https://weread.qq.com/web/reader/80832570718ff64f8085a5f)-阿德里安·班纳
+- 《高等数学》上下册, 同济大学
 - 线性代数
 - 概率论与数理统计
+- [普林斯顿微积分读本（修订版）](https://weread.qq.com/web/reader/80832570718ff64f8085a5f)-阿德里安·班纳
 
 
 ## 产品设计
@@ -186,11 +201,6 @@
 - 《用户体验多面手》[美] Leah Buley 著；新浪微博用户研究与体验设计中心，七印部落 译，华中科技大学出版社
 - 《Don't Make Me Think》[美] 克鲁格（Steve Krug） 著；蒋芳 译，机械工业出版社
 
-
-
-## 代码规范
-
-- [文档与源码编写风格](https://github.com/fex-team/styleguide)
 
 ## 人文社科
 
@@ -227,7 +237,4 @@
 欢迎微信扫码打赏我，感谢支持！
 
 
-![](https://images2018.cnblogs.com/blog/663847/201805/663847-20180515232241445-706573186.png)
-
-
-
+![](images/663847-20180515232241445-706573186.png)
